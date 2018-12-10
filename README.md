@@ -1,2 +1,2 @@
 # hello-world
-Just a strat test
+Hi Humans!
